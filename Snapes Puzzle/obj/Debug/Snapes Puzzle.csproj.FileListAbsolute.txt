@@ -1,0 +1,7 @@
+C:\Users\YDenk\source\repos\Snapes Puzzle\Snapes Puzzle\bin\Debug\Snapes Puzzle.exe.config
+C:\Users\YDenk\source\repos\Snapes Puzzle\Snapes Puzzle\bin\Debug\Snapes Puzzle.exe
+C:\Users\YDenk\source\repos\Snapes Puzzle\Snapes Puzzle\bin\Debug\Snapes Puzzle.pdb
+C:\Users\YDenk\source\repos\Snapes Puzzle\Snapes Puzzle\obj\Debug\Snapes Puzzle.csprojAssemblyReference.cache
+C:\Users\YDenk\source\repos\Snapes Puzzle\Snapes Puzzle\obj\Debug\Snapes Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\YDenk\source\repos\Snapes Puzzle\Snapes Puzzle\obj\Debug\Snapes Puzzle.exe
+C:\Users\YDenk\source\repos\Snapes Puzzle\Snapes Puzzle\obj\Debug\Snapes Puzzle.pdb
